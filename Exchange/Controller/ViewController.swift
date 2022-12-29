@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     var exchangeValue = 0.0
-    var currencyLabel = "€"
+    var currencyLabel = "zł"
     var exchangeBrain = ExchangeBrain()
     
     
